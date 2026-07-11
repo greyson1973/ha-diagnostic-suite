@@ -2,7 +2,7 @@
 
 ## People
 
-**Document Version:** 2.0  
+**Document Version:** 2.1  
 **Document Status:** Approved  
 **Project Status:** Pre-Alpha  
 **Approved By:** Project Founder & First Reader  
@@ -85,17 +85,3 @@ This project believes that knowledge should be shared, not hidden.
 A system that only one person understands is not a well-documented system.
 
 The goal of this project is to create tools and documentation that allow others to learn, troubleshoot, and maintain Home Assistant systems with confidence.
-
----
-
-# Document Review History
-
-## Version 1.0 — Draft
-
-**Date:** July 11, 2026
-
-Initial document created for contributor recognition and role documentation.
-
-Pending technical review and First Reader review.
-
----
